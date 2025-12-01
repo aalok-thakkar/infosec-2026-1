@@ -1,8 +1,8 @@
-id: example
-name: Example Dojo
-type: example
+id: cs3610
+name: "CS-3610: Information Security"
+type: course
 award:
-  emoji: 😀
+  emoji: 🛡️
 image: pwncollege/challenge-simple
 modules:
   - id: hello

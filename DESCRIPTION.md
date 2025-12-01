@@ -1,2 +1,2 @@
-This is an [example dojo](https://github.com/pwncollege/example-dojo).
-Fork this repository, and create your own dojo!
+This dojo contains challenges for the course **CS-3610: Information Security**.
+Good luck!
